@@ -1,0 +1,1 @@
+print('This gonna be my montly budget app')
