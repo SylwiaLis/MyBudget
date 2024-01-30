@@ -1,3 +1,5 @@
+import prettytable
+
 print('Monthly Budget')
 
 income = {
